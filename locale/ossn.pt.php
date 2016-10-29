@@ -9,7 +9,7 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 
-$pb = array(
+$pt = array(
 	'home' => 'Home',
 	'site:index' => 'Bem Vindo',
 	'news:feed' => 'Feed de Notícias',
@@ -393,10 +393,9 @@ Por favor clique no link abaixo para redefinir sua senha ou copie o link e cole 
 	"om" => "(Afan) Oromo",
 	"or" => "Oriya",
 	"pa" => "Punjabi",
-	"pb" => "Português (Brasil)",
 	"pl" => "Polish",
 	"ps" => "Pashto / Pushto",
-	"pt" => "Português (Portugal)",
+	"pt" => "Português (Brasil)",
 	"qu" => "Quechua",
 	"rm" => "Rhaeto-Romance",
 	"rn" => "Kirundi",
@@ -447,4 +446,4 @@ Por favor clique no link abaixo para redefinir sua senha ou copie o link e cole 
 	"zh" => "Chinese",
 	"zu" => "Zulu"
 );
-ossn_register_languages('pb', $pb);
+ossn_register_languages('pt', $pt);

@@ -302,7 +302,6 @@ function ossn_standard_language_codes() {
 				'om',
 				'or',
 				'pa',
-				'pb',
 				'pl',
 				'ps',
 				'pt',
